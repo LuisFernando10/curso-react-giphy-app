@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en: GifGrid.js Debe: Retornar componente < GifGrid /> 1`] = `
+<Fragment>
+  <h2>
+    One Punch
+  </h2>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
